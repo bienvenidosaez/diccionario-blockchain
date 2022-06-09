@@ -1,5 +1,7 @@
-# #4 ¿Qué es un WhitePaper Cripto?
+# #3 ¿Qué es la DESCentralización?
 
-Si vienes del mundo científico o del mundo de las matemáticas te será más que familiar la utilización de documentos de carácter formal donde se explique el procedimiento, teoría o mecanismos de algún sistema complejo. En el mundo de la blockchain también son muy utilizados, es lo que denominamos un Whitepaper.
+Sabías que existe un modelo de organización de la información y toma de decisiones en la que no hay que pedir permiso ni pasar por un ente central de autoridad para colaborar o comunicarte?
 
-{% embed url="https://youtu.be/Bqv7o53FTc4" %}
+{% embed url="https://www.youtube.com/watch?index=4&list=PLn98b7UTDjb1ii7dG28nKvvO1NmNCIa9j&v=nW2nxJbAXsA" %}
+¿Qué es la DESCentralización?
+{% endembed %}

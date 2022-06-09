@@ -19,7 +19,7 @@ Ahora sí, ya estás preparado para empezar a entender poco a poco cómo funcion
 
 * [#1 ¿Qué es la Blockchain?](readme/1-que-es-la-blockchain.md)
 * [#2 ¿Qué es la Centralización?](readme/2-que-es-la-centralizacion.md)
-* [#3 ¿Qué es la Descentralización?](readme/3-que-es-la-descentralizacion.md)
+* [#3 ¿Qué es la Descentralización?](<readme/3-que-es-la-descentralizacion (1).md>)
 * [#4 ¿Qué es un WhitePaper?](https://www.youtube.com/watch?v=Bqv7o53FTc4\&list=PLn98b7UTDjb1ii7dG28nKvvO1NmNCIa9j\&index=5)
 * \#5 ¿Quién es Satoshi Nakamoto?
 * \#6 El problema de los Generales Bizantinos
@@ -29,3 +29,4 @@ Ahora sí, ya estás preparado para empezar a entender poco a poco cómo funcion
 * \#10 ¿Qué es un Nodo?
 * \#11 ¿Qué es un Bloque?
 * \#12 ¿Qué es la minería en Blockchain?
+* ...
