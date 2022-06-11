@@ -21,7 +21,7 @@ Ahora sí, ya estás preparado para empezar a entender poco a poco cómo funcion
 * [#2 ¿Qué es la Centralización?](readme/2-que-es-la-centralizacion.md)
 * [#3 ¿Qué es la Descentralización?](<readme/3-que-es-la-descentralizacion (1).md>)
 * [#4 ¿Qué es un WhitePaper?](<readme/3-que-es-la-descentralizacion (1).md>)
-* \#5 ¿Quién es Satoshi Nakamoto?
+* [#5 ¿Quién es Satoshi Nakamoto?](readme/que-es-un-whitepaper-cripto-1.md)
 * \#6 El problema de los Generales Bizantinos
 * \#7 El problema del Doble Gasto (Bitcoin)
 * \#8 ¿Qué es una Función Hash?
