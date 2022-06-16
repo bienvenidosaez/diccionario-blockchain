@@ -22,8 +22,8 @@ Ahora sí, ya estás preparado para empezar a entender poco a poco cómo funcion
 * [#3 ¿Qué es la Descentralización?](<readme/3-que-es-la-descentralizacion (1).md>)
 * [#4 ¿Qué es un WhitePaper?](<readme/3-que-es-la-descentralizacion (1).md>)
 * [#5 ¿Quién es Satoshi Nakamoto?](readme/que-es-un-whitepaper-cripto-1.md)
-* \#6 El problema de los Generales Bizantinos
-* \#7 El problema del Doble Gasto (Bitcoin)
+* [#6 El problema de los Generales Bizantinos](readme/que-es-un-whitepaper-cripto-2.md)
+* \#7 El problema del Doble Gasto
 * \#8 ¿Qué es una Función Hash?
 * \#9 ¿Qué es la criptografía de clave privada y clave pública?
 * \#10 ¿Qué es un Nodo?
